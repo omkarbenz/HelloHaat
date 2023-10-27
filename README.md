@@ -1,6 +1,5 @@
-## X-Beat | React eCommerce Web App
+## HelloHaat | React eCommerce Web App
 
-### [Demo Link](https://x-beat.netlify.app/) 🔗
 
 Audio Store eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
@@ -33,7 +32,7 @@ State management using Context API.
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
+- **OmkarBenz** -  **[GitHub](https://github.com/omkarbenz)**
 
 <br/>
 
